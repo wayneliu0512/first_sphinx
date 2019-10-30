@@ -20,6 +20,7 @@
 project = 'first_sphinx'
 copyright = '2019, wayne'
 author = 'wayne'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
